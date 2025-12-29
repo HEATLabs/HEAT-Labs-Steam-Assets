@@ -1,17 +1,17 @@
 MINIMUM:
-OS: Placeholder
-PROCESSOR: Placeholder
-MEMORY: Placeholder
-GRAPHICS: Placeholder
-DIRECTX: Placeholder
-NETWORK: Placeholder
-STORAGE: Placeholder
+OS: Windows 10, Windows 11
+PROCESSOR: Intel Core i3 or AMD equivalent
+MEMORY: 2048 MB RAM
+GRAPHICS: Intel HD Graphics 4000 or above
+DIRECTX: Version 11
+NETWORK: Broadband internet connection
+STORAGE: 150 MB available space
 
 RECOMMENDED:
-OS: Placeholder
-PROCESSOR: Placeholder
-MEMORY: Placeholder
-GRAPHICS: Placeholder
-DIRECTX: Placeholder
-NETWORK: Placeholder
-STORAGE: Placeholder
+OS: Windows 10, Windows 11
+PROCESSOR: Intel Core i5 or AMD equivalent
+MEMORY: 4096 MB RAM
+GRAPHICS: Intel Iris Xe or above
+DIRECTX: Version 12
+NETWORK: High-speed internet connection
+STORAGE: 250 MB available space
