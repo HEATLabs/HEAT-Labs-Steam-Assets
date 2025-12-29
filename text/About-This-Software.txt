@@ -1,1 +1,22 @@
+# About This Software:
 Placeholder
+
+Features:
+## Tank Statistics
+## Player Statistics
+## Map Knowledge
+## Community Guides
+## Playground
+## Game News
+## Asset Gallery
+## Tournaments
+
+# Frequently Asked Questions:
+Placeholder
+
+# Disclaimer:
+HEAT Labs is a community-made project and is not associated with, endorsed by, or affiliated with World of Tanks: HEAT or Wargaming.net.
+This work includes trademarks and/or copyrighted works that are the exclusive property of Wargaming. All rights reserved by Wargaming. This work is unofficial and is not endorsed by Wargaming.
+
+# Copyright:
+© 2025 HEAT Labs by SINEWAVE Development. All rights reserved.
