@@ -1,40 +1,44 @@
 # About This Software:
-Placeholder Description Text
+HEAT Labs is a community-driven companion app designed to support players of World of Tanks: HEAT. It provides in-depth data, analysis tools, and community resources to help players better understand game mechanics, improve performance, and stay informed. Built by players, for players, HEAT Labs acts as a central hub for statistics, knowledge sharing, and experimentation bringing clarity to complex systems while fostering a collaborative community.
 
-Features:
-Placeholder Features Intro Text
+# Features:
+HEAT Labs offers a wide range of tools and resources aimed at enhancing player knowledge and engagement.
 
 ## Tank Statistics
-Placeholder Feature Text
+Access detailed information on vehicles, including armour values, firepower characteristics, mobility metrics, and performance comparisons. Designed to help players evaluate strengths and weaknesses.
 
 ## Player Statistics
-Placeholder Feature Text
+Track and analyze player performance over time. View historical data, trends, and key metrics to better understand playstyle and progression.
 
 ## Map Knowledge
-Placeholder Feature Text
+Explore map layouts, strategic positions, terrain features, and tactical insights. Ideal for planning routes, understanding sightlines, and improving situational awareness.
 
 ## Community Guides
-Placeholder Feature Text
+Browse guides created by experienced players covering tactics, mechanics, vehicle usage, and general gameplay tips written by the community, for the community.
 
 ## Playground
-Placeholder Feature Text
+From useful tools to fun games, check out our playground. From tier list creators to soundboards and a game configuration tool, you'll likely find something here to keep you entertained.
 
 ## Game News
-Placeholder Feature Text
+Stay informed with curated updates, patch highlights, and notable developments related to World of Tanks: HEAT.
 
 ## Asset Gallery
-Placeholder Feature Text
+View and reference in-game assets such as Vehicles, Agents, Abilities, Backgrounds, Environments and many, many more. Chances are, if It's something in the game, you'll find it here.
 
 ## Tournaments
-Placeholder Feature Text
+Follow both community and officially run tournaments and events or look up legacy tournaments and events for results, matches and winners.
 
 ## Discord Integration
-Placeholder Feature Text
+Connect directly with the HEAT Labs community through our Discord integration, enabling discussions, feedback, and collaboration all in one handy, easy to access place.
 
-Placeholder Closing Text
+HEAT Labs is continuously evolving, with features expanding based on community feedback and ongoing development. We hope to see you become part of the HEAT Labs community.
 
 # Frequently Asked Questions:
-Placeholder FAQ Section Text
+Q: What is HEAT Labs?
+A: HEAT Labs is a community-driven, open-source platform dedicated to providing comprehensive and accurate statistics for World of Tanks: HEAT players.
+
+Q: Is HEAT Labs free to use?
+A: Absolutely! HEAT Labs is 100% free, with no ads or premium tiers. It's built by the community, for the community.
 
 # Disclaimer:
 HEAT Labs is a community-made project and is not associated with, endorsed by, or affiliated with World of Tanks: HEAT or Wargaming.net.
