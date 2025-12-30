@@ -1,18 +1,40 @@
 # About This Software:
-Placeholder
+Placeholder Description Text
 
 Features:
+Placeholder Features Intro Text
+
 ## Tank Statistics
+Placeholder Feature Text
+
 ## Player Statistics
+Placeholder Feature Text
+
 ## Map Knowledge
+Placeholder Feature Text
+
 ## Community Guides
+Placeholder Feature Text
+
 ## Playground
+Placeholder Feature Text
+
 ## Game News
+Placeholder Feature Text
+
 ## Asset Gallery
+Placeholder Feature Text
+
 ## Tournaments
+Placeholder Feature Text
+
+## Discord Integration
+Placeholder Feature Text
+
+Placeholder Closing Text
 
 # Frequently Asked Questions:
-Placeholder
+Placeholder FAQ Section Text
 
 # Disclaimer:
 HEAT Labs is a community-made project and is not associated with, endorsed by, or affiliated with World of Tanks: HEAT or Wargaming.net.
