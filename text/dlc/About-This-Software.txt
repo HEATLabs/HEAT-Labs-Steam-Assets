@@ -1,0 +1,11 @@
+PLACEHOLDER
+
+[h2][b]What's Included?[/b][/h2]
+PLACEHOLDER
+[list]
+[*][b]PLACEHOLDER[/b] - PLACEHOLDER
+
+[h2][b]Frequently Asked Questions:[/b][/h2]
+[list]
+[*][b]PLACEHOLDER[/b] - PLACEHOLDER
+[/list]
