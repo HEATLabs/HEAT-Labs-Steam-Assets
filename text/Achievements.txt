@@ -1,4 +1,39 @@
 ACHIEVEMENT #1
-- Icon:
-- Task:
-- Description:
+- Icon: H
+- Task: Use HEAT Labs for 10 minutes
+- Name: H - First Steps
+
+ACHIEVEMENT #2
+- Icon: E
+- Task: Use HEAT Labs for 30 minutes
+- Name: E - Getting Into It
+
+ACHIEVEMENT #3
+- Icon: A
+- Task: Use HEAT Labs for 1 hour
+- Name: A - Settling In
+
+ACHIEVEMENT #4
+- Icon: T
+- Task: Use HEAT Labs for 2 hours
+- Name: T - Dedicated Player
+
+ACHIEVEMENT #5
+- Icon: L
+- Task: Use HEAT Labs for 5 hours
+- Name: L - Committed
+
+ACHIEVEMENT #6
+- Icon: A
+- Task: Use HEAT Labs for 10 hours
+- Name: A - Veteran
+
+ACHIEVEMENT #7
+- Icon: B
+- Task: Use HEAT Labs for 25 hours
+- Name: B - Hardcore
+
+ACHIEVEMENT #8
+- Icon: S
+- Task: Use HEAT Labs for 50 hours
+- Name: S - Addicted
