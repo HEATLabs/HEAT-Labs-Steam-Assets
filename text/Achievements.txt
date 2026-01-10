@@ -37,3 +37,63 @@ ACHIEVEMENT #8
 - Icon: S
 - Task: Use HEAT Labs for 50 hours
 - Name: S - Addicted
+
+ACHIEVEMENT #9
+- Icon: N/A
+- Task: Visit the Tank Statistics section.
+- Name: Gearhead
+
+ACHIEVEMENT #10
+- Icon: N/A
+- Task: Visit the Player Statistics section.
+- Name: Score Keeper
+
+ACHIEVEMENT #11
+- Icon: N/A
+- Task: Visit the Map Knowledge section.
+- Name: Cartographer
+
+ACHIEVEMENT #12
+- Icon: N/A
+- Task: Visit the Community Guides section.
+- Name:
+
+ACHIEVEMENT #13
+- Icon: N/A
+- Task: Visit the Tank Statistics section.
+- Name: Learner
+
+ACHIEVEMENT #14
+- Icon: N/A
+- Task: Visit the Common Builds section.
+- Name: Strategist
+
+ACHIEVEMENT #15
+- Icon: N/A
+- Task: Visit the Playground section.
+- Name: Experimenter
+
+ACHIEVEMENT #16
+- Icon: N/A
+- Task: Visit the Game News section
+- Name: News Hound
+
+ACHIEVEMENT #17
+- Icon: N/A
+- Task: Visit the Asset Gallery section.
+- Name: Collector
+
+ACHIEVEMENT #18
+- Icon: N/A
+- Task: Visit our Tournaments section.
+- Name: Competitor
+
+ACHIEVEMENT #19
+- Icon: N/A
+- Task: Visit the Official Blog section.
+- Name: Insider
+
+ACHIEVEMENT #20
+- Icon: N/A
+- Task: Visit the About the Project section.
+- Name: Curious Mind
