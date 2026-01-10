@@ -41,12 +41,12 @@ ACHIEVEMENT #8
 ACHIEVEMENT #9
 - Icon: N/A
 - Task: Visit the Tank Statistics section.
-- Name: Gearhead
+- Name: Gear Head
 
 ACHIEVEMENT #10
 - Icon: N/A
 - Task: Visit the Player Statistics section.
-- Name: Score Keeper
+- Name: Scorekeeper
 
 ACHIEVEMENT #11
 - Icon: N/A
@@ -76,7 +76,7 @@ ACHIEVEMENT #15
 ACHIEVEMENT #16
 - Icon: N/A
 - Task: Visit the Game News section
-- Name: News Hound
+- Name: Newshound
 
 ACHIEVEMENT #17
 - Icon: N/A
