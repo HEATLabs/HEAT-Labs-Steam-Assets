@@ -171,52 +171,57 @@ ACHIEVEMENT #32 - Go-To Nexus
 - Task: Extra content often lies beyond the known world.
 - Name: Mod Enthusiast
 
-ACHIEVEMENT #33 - Blitz GIF Meme
+ACHIEVEMENT #33 - Go-To Steam
+- Icon: N/A
+- Task:
+- Name:
+
+ACHIEVEMENT #34 - Blitz GIF Meme
 - Icon: N/A
 - Task: Old-school fingers unlock new fun.
 - Name: Konami Commando
 
-ACHIEVEMENT #34 - Dark Mode Privileges
+ACHIEVEMENT #35 - Dark Mode Privileges
 - Icon: N/A
 - Task: Push the limits, and the rules might push back.
 - Name: Lights Out
 
-ACHIEVEMENT #35 - Devs Only Page
+ACHIEVEMENT #36 - Devs Only Page
 - Icon: N/A
 - Task: Some doors are not for everyone.
 - Name: Behind the Curtain
 
-ACHIEVEMENT #36 - Hackerman's Console
+ACHIEVEMENT #37 - Hackerman's Console
 - Icon: N/A
 - Task: Retro Hacker
 - Name: The '90s never truly left.
 
-ACHIEVEMENT #37 - Classified Data Leak
+ACHIEVEMENT #38 - Classified Data Leak
 - Icon: N/A
 - Task: Seven careful clicks may reveal hidden truths.
 - Name: Top Secret
 
-ACHIEVEMENT #38 - Australian Localization
+ACHIEVEMENT #39 - Australian Localization
 - Icon: N/A
 - Task: Everything looks different from another perspective.
 - Name: Down Under
 
-ACHIEVEMENT #39 - Ship Matcha and Moonlight
+ACHIEVEMENT #40 - Ship Matcha and Moonlight
 - Icon: N/A
 - Task: A little magic can change the scene.
 - Name: Hero's Update
 
-ACHIEVEMENT #40 - Development Website
+ACHIEVEMENT #41 - Development Website
 - Icon: N/A
 - Task: Some bubbles hide more than just color.
 - Name: Experimentalist
 
-ACHIEVEMENT #41 - Random Page
+ACHIEVEMENT #42 - Random Page
 - Icon: N/A
 - Task: Where you go next is anyone's guess.
 - Name: Serendipitous Explorer
 
-ACHIEVEMENT #42 - Meme Gallery
+ACHIEVEMENT #43 - Meme Gallery
 - Icon: N/A
 - Task: Laughter hides behind the unexpected.
 - Name: Memetic Collector
