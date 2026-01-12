@@ -151,57 +151,72 @@ ACHIEVEMENT #28 - Go-To Github
 - Task: A treasure trove of scripts awaits the curious.
 - Name: Code Explorer
 
-ACHIEVEMENT #29 - Go-To Nexus
+ACHIEVEMENT #29 - Go-To Instagram
+- Icon: N/A
+- Task: Stories are told one image at a time.
+- Name: Visual Drifter
+
+ACHIEVEMENT #30 - Go-To Twitch
+- Icon: N/A
+- Task: Some moments only happen in real time.
+- Name: Live Spectator
+
+ACHIEVEMENT #31 - Go-To TikTok
+- Icon: N/A
+- Task: Blink and you might miss it.
+- Name: Short-Form Explorer
+
+ACHIEVEMENT #32 - Go-To Nexus
 - Icon: N/A
 - Task: Extra content often lies beyond the known world.
 - Name: Mod Enthusiast
 
-ACHIEVEMENT #30 - Blitz GIF Meme
+ACHIEVEMENT #33 - Blitz GIF Meme
 - Icon: N/A
 - Task: Old-school fingers unlock new fun.
 - Name: Konami Commando
 
-ACHIEVEMENT #31 - Dark Mode Privileges
+ACHIEVEMENT #34 - Dark Mode Privileges
 - Icon: N/A
 - Task: Push the limits, and the rules might push back.
 - Name: Lights Out
 
-ACHIEVEMENT #32 - Devs Only Page
+ACHIEVEMENT #35 - Devs Only Page
 - Icon: N/A
 - Task: Some doors are not for everyone.
 - Name: Behind the Curtain
 
-ACHIEVEMENT #33 - Hackerman's Console
+ACHIEVEMENT #36 - Hackerman's Console
 - Icon: N/A
 - Task: Retro Hacker
 - Name: The '90s never truly left.
 
-ACHIEVEMENT #34 - Classified Data Leak
+ACHIEVEMENT #37 - Classified Data Leak
 - Icon: N/A
 - Task: Seven careful clicks may reveal hidden truths.
 - Name: Top Secret
 
-ACHIEVEMENT #35 - Australian Localization
+ACHIEVEMENT #38 - Australian Localization
 - Icon: N/A
 - Task: Everything looks different from another perspective.
 - Name: Down Under
 
-ACHIEVEMENT #36 - Ship Matcha and Moonlight
+ACHIEVEMENT #39 - Ship Matcha and Moonlight
 - Icon: N/A
 - Task: A little magic can change the scene.
 - Name: Hero's Update
 
-ACHIEVEMENT #37 - Development Website
+ACHIEVEMENT #40 - Development Website
 - Icon: N/A
 - Task: Some bubbles hide more than just color.
 - Name: Experimentalist
 
-ACHIEVEMENT #38 - Random Page
+ACHIEVEMENT #41 - Random Page
 - Icon: N/A
 - Task: Where you go next is anyone's guess.
 - Name: Serendipitous Explorer
 
-ACHIEVEMENT #39 - Meme Gallery
+ACHIEVEMENT #42 - Meme Gallery
 - Icon: N/A
 - Task: Laughter hides behind the unexpected.
 - Name: Memetic Collector
