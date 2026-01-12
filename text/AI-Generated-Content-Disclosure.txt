@@ -1,2 +1,0 @@
-HEAT Labs may use generative AI tools during development to assist with text and/or upscaling of visual content.
-All such content is carefully curated, refined, and checked for accuracy before use and any AI assisted content is clearly labeled to ensure transparency.
