@@ -1,3 +1,5 @@
+PLAY TIME ACHIEVEMENTS
+
 ACHIEVEMENT #1
 - Icon: H
 - Task: Use HEAT Labs for 10 minutes
@@ -37,6 +39,12 @@ ACHIEVEMENT #8
 - Icon: S
 - Task: Use HEAT Labs for 50 hours
 - Name: S - Addicted
+
+
+
+
+
+PAGE ACHIEVEMENTS
 
 ACHIEVEMENT #9
 - Icon: N/A
@@ -98,92 +106,102 @@ ACHIEVEMENT #20
 - Task: Visit the About the Project section.
 - Name: Curious Mind
 
-ACHIEVEMENT #21
+
+
+
+EASTER EGG ACHIEVEMENTS
+
+ACHIEVEMENT #21 - Enigma Pear
 - Icon: N/A
 - Task: Something fruity hides in plain sight.
 - Name: Fruit of Mystery
 
-ACHIEVEMENT #22
+ACHIEVEMENT #22 - Maxwell
 - Icon: N/A
 - Task: Search carefully; someone's waiting.
 - Name: The Collector
 
-ACHIEVEMENT #23
+ACHIEVEMENT #23 - Arabic Radio Stations
 - Icon: N/A
 - Task: A signal from faraway lands can be heard.
 - Name: Global Frequencies
 
-ACHIEVEMENT #24
+ACHIEVEMENT #24 - Tournament Easter Egg
 - Icon: N/A
 - Task: Sometimes, the answer lies in uncertainty.
 - Name: Confused Competitor
 
-ACHIEVEMENT #25
+ACHIEVEMENT #25 - Go-To YouTube
+- Icon: N/A
+- Name: Video Voyager
+- Hint: Follow the sound of moving pictures.
+
+ACHIEVEMENT #26 - Go-To Twitter
 - Icon: N/A
 - Task: Short messages can carry long wings.
 - Name: Chirp Chaser
 
-ACHIEVEMENT #26
+ACHIEVEMENT #27 - Go-To Discord
 - Icon: N/A
 - Task: Voices gather where the community meets.
 - Name: Server Hopper
 
-ACHIEVEMENT #27
+ACHIEVEMENT #28 - Go-To Github
 - Icon: N/A
 - Task: A treasure trove of scripts awaits the curious.
 - Name: Code Explorer
 
-ACHIEVEMENT #28
+ACHIEVEMENT #29 - Go-To Nexus
 - Icon: N/A
 - Task: Extra content often lies beyond the known world.
 - Name: Mod Enthusiast
 
-ACHIEVEMENT #29
+ACHIEVEMENT #30 - Blitz GIF Meme
 - Icon: N/A
 - Task: Old-school fingers unlock new fun.
 - Name: Konami Commando
 
-ACHIEVEMENT #30
+ACHIEVEMENT #31 - Dark Mode Privileges
 - Icon: N/A
 - Task: Push the limits, and the rules might push back.
 - Name: Lights Out
 
-ACHIEVEMENT #31
+ACHIEVEMENT #32 - Devs Only Page
 - Icon: N/A
 - Task: Some doors are not for everyone.
 - Name: Behind the Curtain
 
-ACHIEVEMENT #32
+ACHIEVEMENT #33 - Hackerman's Console
 - Icon: N/A
 - Task: Retro Hacker
 - Name: The '90s never truly left.
 
-ACHIEVEMENT #33
+ACHIEVEMENT #34 - Classified Data Leak
 - Icon: N/A
 - Task: Seven careful clicks may reveal hidden truths.
 - Name: Top Secret
 
-ACHIEVEMENT #34
+ACHIEVEMENT #35 - Australian Localization
 - Icon: N/A
 - Task: Everything looks different from another perspective.
 - Name: Down Under
 
-ACHIEVEMENT #35
+ACHIEVEMENT #36 - Ship Matcha and Moonlight
 - Icon: N/A
 - Task: A little magic can change the scene.
 - Name: Hero's Update
 
-ACHIEVEMENT #36
+ACHIEVEMENT #37 - Development Website
 - Icon: N/A
 - Task: Some bubbles hide more than just color.
 - Name: Experimentalist
 
-ACHIEVEMENT #37
+ACHIEVEMENT #38 - Random Page
 - Icon: N/A
 - Task: Where you go next is anyone's guess.
 - Name: Serendipitous Explorer
 
-ACHIEVEMENT #38
+ACHIEVEMENT #39 - Meme Gallery
 - Icon: N/A
 - Task: Laughter hides behind the unexpected.
 - Name: Memetic Collector
