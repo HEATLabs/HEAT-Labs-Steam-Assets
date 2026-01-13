@@ -1,11 +1,12 @@
-PLACEHOLDER
-
+This Supporter Pack includes a handful of small extras and exists first and foremost as a way to support the developers. It’s entirely optional, and is simply a way for players who enjoy the project to help fund ongoing development. Thank you for being part of HEAT Labs.
 [h2][b]What's Included?[/b][/h2]
-PLACEHOLDER
+This pack contains a few small extras and serves as an optional way to support the developers financially for ongoing development. It does not impact the functionality or features of the app in any way and is not required to experience the full app.
+The contents of this pack have not been revealed yet. Full details will be shared closer to release.
 [list]
-[*][b]PLACEHOLDER[/b] - PLACEHOLDER
-
+[*][b]To Be Announced[/b] - The full list of included items will be unveiled at a later date.
+[/list]
 [h2][b]Frequently Asked Questions:[/b][/h2]
 [list]
-[*][b]PLACEHOLDER[/b] - PLACEHOLDER
+[*][b]Where can I find the digital goods?[/b] - After purchase, all digital goods will be accessible directly within the app’s installation directory.
+[*][b]When is the pack releasing?[/b] - We don't have a public release date to share just yet. More details will be announced once the pack is closer to launch.
 [/list]
