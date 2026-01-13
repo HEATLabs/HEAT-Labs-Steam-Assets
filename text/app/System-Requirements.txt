@@ -6,6 +6,7 @@ GRAPHICS: Intel HD Graphics 4000 or above
 DIRECTX: Version 11
 NETWORK: Broadband internet connection
 STORAGE: 150 MB available space
+SOUND CARD: Not required
 VR SUPPORT: No VR Support
 ADDITIONAL NOTES: 1280×720 minimum resolution
 
@@ -17,5 +18,6 @@ GRAPHICS: Intel Iris Xe or above
 DIRECTX: Version 12
 NETWORK: High-speed internet connection
 STORAGE: 250 MB available space
+SOUND CARD: Not required
 VR SUPPORT: No VR Support
 ADDITIONAL NOTES: 1920×1080 minimum resolution
