@@ -1,9 +1,12 @@
-This Supporter Pack includes a handful of small extras and exists first and foremost as a way to support the developers. It’s entirely optional, and is simply a way for players who enjoy the project to help fund ongoing development. Thank you for being part of HEAT Labs.
+This [b]Supporter Pack[/b] includes a handful of small extras and exists first and foremost as a way to support the developers. It’s entirely optional, and is simply a way for players who enjoy the project to help fund ongoing development. Thank you for being part of [b]HEAT Labs[/b].
 [h2][b]What's Included?[/b][/h2]
 This pack contains a few small extras and serves as an optional way to support the developers financially for ongoing development. It does not impact the functionality or features of the app in any way and is not required to experience the full app.
-The contents of this pack have not been revealed yet. Full details will be shared closer to release.
 [list]
-[*][b]To Be Announced[/b] - The full list of included items will be unveiled at a later date.
+[*][b]In-house Artwork[/b] - DESCRIPTION (artwork created by the HEAT Labs Team)
+[*][b]Digital Artbook[/b] - DESCRIPTION (artbook containing the making off HEAT Labs, our story, design principles)
+[*][b]Custom Wallpapers[/b] - DESCRIPTION (high resolution wallpapers in various sizes for all screens)
+[*][b]Digital Soundtrack[/b] - DESCRIPTION (original soundtrack mixed and composed by SINEWAVE with the help of the HEAT Labs Team)
+[*][b]Thank You Letter[/b] - DESCRIPTION (thank you letter written by the HEAT Labs Team)
 [/list]
 [h2][b]Frequently Asked Questions:[/b][/h2]
 [list]
