@@ -2,11 +2,11 @@ This [b]Supporter Pack[/b] includes a handful of small extras and exists first a
 [h2][b]What's Included?[/b][/h2]
 This pack contains a few small extras and serves as an optional way to support the developers financially for ongoing development. It does not impact the functionality or features of the app in any way and is not required to experience the full app.
 [list]
-[*][b]In-house Artwork[/b] - DESCRIPTION (artwork created by the HEAT Labs Team)
-[*][b]Digital Artbook[/b] - DESCRIPTION (artbook containing the making off HEAT Labs, our story, design principles)
-[*][b]Custom Wallpapers[/b] - DESCRIPTION (high resolution wallpapers in various sizes for all screens)
-[*][b]Digital Soundtrack[/b] - DESCRIPTION (original soundtrack mixed and composed by SINEWAVE with the help of the HEAT Labs Team)
-[*][b]Thank You Letter[/b] - DESCRIPTION (thank you letter written by the HEAT Labs Team)
+[*][b]In-house Artwork[/b] - A curated collection of original artwork created by the HEAT Labs Team.
+[*][b]Digital Artbook[/b] - Explore the making of HEAT Labs. Here you will find our story, design principles, early concepts, and insights into the creative process behind the project.
+[*][b]Custom Wallpapers[/b] - A set of high-resolution wallpapers created by the HEAT Labs Team. Available in multiple sizes and formats, suitable for desktops, laptops, and mobile devices.
+[*][b]Digital Soundtrack[/b] - The official HEAT Labs soundtrack, composed and mixed by SINEWAVE with support from the HEAT Labs Team. Features original tracks created for the project.
+[*][b]Thank You Letter[/b] - A personal thank you letter written by the HEAT Labs Team, expressing our appreciation to everyone who supports and believes in the project.
 [/list]
 [h2][b]Frequently Asked Questions:[/b][/h2]
 [list]
