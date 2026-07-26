@@ -63,7 +63,7 @@ ACHIEVEMENT #11
 
 ACHIEVEMENT #12
 - Icon: N/A
-- Task: Visit the Community Guides section.
+- Task: Visit the Game Guides section.
 - Name:
 
 ACHIEVEMENT #13
