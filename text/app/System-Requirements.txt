@@ -1,27 +1,27 @@
 WINDOWS:
 MINIMUM:
-OS: Windows 10, Windows 11
-PROCESSOR: Intel Core i3 or AMD equivalent
-MEMORY: 2048 MB RAM
-GRAPHICS: Intel HD Graphics 4000 or above
-DIRECTX: Version 11
-NETWORK: Broadband internet connection
-STORAGE: 150 MB available space
-SOUND CARD: Not required
-VR SUPPORT: No VR Support
-ADDITIONAL NOTES: 1280×720 minimum resolution
+OS: Anything that boots
+PROCESSOR: Yea, should be good
+MEMORY: Anything more than 1
+GRAPHICS: If you want to
+DIRECTX: N/A
+NETWORK: As long as it loads HEAT Labs, it should be good
+STORAGE: Anything above like 100
+SOUND CARD: Are you serious?
+VR SUPPORT: Why are you even asking?
+ADDITIONAL NOTES: Even a CRT should be fine
 
 RECOMMENDED:
-OS: Windows 10, Windows 11
-PROCESSOR: Intel Core i5 or AMD equivalent
-MEMORY: 4096 MB RAM
-GRAPHICS: Intel Iris Xe or above
-DIRECTX: Version 12
-NETWORK: High-speed internet connection
-STORAGE: 250 MB available space
-SOUND CARD: Not required
-VR SUPPORT: No VR Support
-ADDITIONAL NOTES: 1920×1080 minimum resolution
+OS: Windows 20 should work
+PROCESSOR: Whatever Claude runs on
+MEMORY: Enough to make Sam Altman envious, like 100k
+GRAPHICS: Whatever Nvidia hides from us
+DIRECTX: N/A
+NETWORK: Petal Subsea Cable Center
+STORAGE: Enough to backup the internet, 5 Million
+SOUND CARD: Good enough to sound real
+VR SUPPORT: Real-Life or nothing
+ADDITIONAL NOTES: iMAX minimum resolution
 
 
 
