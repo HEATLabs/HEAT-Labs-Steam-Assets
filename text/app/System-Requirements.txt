@@ -18,7 +18,7 @@ MEMORY: Enough to make Sam Altman envious, like 100k
 GRAPHICS: Whatever Nvidia hides from us
 DIRECTX: N/A
 NETWORK: Petal Subsea Cable Center
-STORAGE: Enough to backup the internet, 5 Million
+STORAGE: Enough to backup the internet, 300 trillion
 SOUND CARD: Good enough to sound real
 VR SUPPORT: Real-Life or nothing
 ADDITIONAL NOTES: iMAX minimum resolution
